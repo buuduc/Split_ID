@@ -1,0 +1,711 @@
+maso,name
+PD,Thiết bị phân phát chương trình
+CNMC,Co ngang
+BGTT,Bộ giao tiếp trạm
+CDT2,Cáp đồng trục
+UPSC,UPS
+LHTT,Loa hộp treo tường
+TDTV,Trạm đọc thẻ vào
+CAM,Camera
+CNC,Cáp nguồn
+CXMC,Co xuống
+SWI,Switch
+OCAM,Ổ cắm
+SPLIT,Bộ chia màn hình
+IBMS,IBMS LAN Switches
+STOR,Thiết bị lưu trữ
+AMP,Amplier
+CNTC,Co ngang
+CLKC,Co lên
+UPS,Bộ lưu điện
+COMC,Máy vi tính
+FOPP,Fiber Optic Patch Panel
+ADA,Adapter
+OCD,Ổ cắm đơn
+BPPN,Bộ phân phối nguồn
+THMC,Thập
+CNKC,Co ngang
+BCBX,Bộ cảm biến xe
+SCAB,Cáp nguồn
+ENCO,Bộ giải mã
+LK,Loa kèn
+TBPAT,Thiết bị phát âm thanh
+TC,Thang cáp
+CXKC,Co xuống
+HDN,Hộp đấu nối
+TDTR,Trạm đọc thẻ ra
+CLMC,Co lên
+BGC,Bàn gọi chọn vùng
+SWIT,Switch
+CLTC,Co lên
+CABLE,Cáp 4P_CAT6_UTP
+LAT,Loa âm trần
+GMC,Giảm
+BTB,Bảng thông báo
+BGT,Bộ giao tiếp máy tính
+TRUNK,Trunking
+GTC,Giảm
+LCD,Màn hình LCD
+PIPEP,Ống luồn
+BTH,Bộ phát tín hiệu báo cháy
+THTC,Thập
+CXTC,Co xuống
+TKC,T
+CPB,Carpark Barrier
+CCN,Cáp chống nhiễu
+BLMHT,Bộ làm mát hệ thống
+COM,Máy vi tính
+PRIN,Máy in
+PAMP,Pre_Amplier
+TMC,T
+KC,Khay cáp
+THKC,Thập
+BUTT,Nút nhấn điều khiển
+KB,Key Board
+BCV,Bộ chia vùng
+GKC,Giảm
+TTC,T
+HDD,HDD
+ER,Cọc tiếp địa
+Rack,Tủ Rack
+AL,Cáp AL
+FT,Ống thủy tinh cách điện
+HDPEC,Ống HDPE
+CORJ,Bộ chuyển đổi cáp quang_RJ45
+CDT,Kim phân tán sét - CHARGE DISSIPATION TERMINALS
+CU,Cáp CU
+CON,Ống luồn cáp thoát sét
+LCAB,Cáp thoát sét
+GIC,Ống GI
+TB,Hộp kiểm tra
+CADW,Mối hàn hóa nhiệt
+EW,Giếng khoan tiếp địa
+EC,Hóa chất giảm điện trở đất
+BOX2NGA,Box 2 ngã
+SUP,Hệ giữ trụ kim thu sét
+LIP,Phíp cách điện
+BAR,Thanh la
+CAMC,Camera
+ECAB,Cáp tiếp địa
+UPTC,Cáp UTP
+LAT1,Kim thu sét tia tiên đạo
+LPP,Trụ đỡ kim thu sét
+LR,Kim thu sét cổ điển
+OF,Cáp Quang
+OLC,Ống luồn
+LCOU,Bộ đếm sét
+DC,Cáp thoát sét chống nhiễu
+PVCC,Ống PVC
+MCC,Tủ điều khiển trung tâm hệ cơ
+OPIPE,Ống dẫn dầu
+BMH,Hố ga xây gạch
+FUME,Ống khói
+POLE,Trụ đèn
+DENABC,Đèn ABC
+ANTIV,Bệ quán tính_lò xo chống rung
+HSOC,Ổ cắm công nghiệp
+UR,Bồn tiểu
+PIPES,Ống
+LAD,Thang cáp _ladder_
+CP,Tủ điều khiển
+TRAY,Máng cáp lỗ_tray_
+CMH,Hố ga bêtong
+LEDBA,Đèn led thanh
+RJOS,Khớp nối mềm
+FPVC,Ống  mềm PVC
+BWC,Busway CU
+DB,Tủ Điện phân phối
+DOWNL,Đèn Downlight
+ELT,Co
+LAV,Chậu rửa tay
+SINK,Chậu rửa bếp
+BRAN,Cần đèn
+SH,Vòi sen
+DIM,Dimmer
+FGI,Ống  mềm GI
+LEVEL,Co lượn
+WM,Đồng hồ nước
+FHDPE,Ống xoắn HDPE
+OPUMP,Bơm dầu
+LEDT,Đèn led ống
+TT,T
+DENLEDNODIMMER,"Đèn LED âm trần, không có điều chỉnh ánh sáng (9W)"
+GAVS,Van cổng
+OTANK,Bồn dầu
+INS,Cách âm
+ANEX,Đèn chống nổ
+DENLEDDIMMER,"Đèn LED âm trần, có điều chỉnh ánh sáng (9W)"
+WC,Bàn cầu
+GEN,Máy Phát Điện
+LEDB,Đèn led dây
+PIPE,Ống
+FE,Flange End
+ACQ,Acquy
+HALO,Đèn halogen
+TRUNK,Máng cáp thường_trunking_
+VEELT,Co ngang
+TAP,Vòi rửa
+BT,Bồn tắm
+BAVS,Van bi
+BWA,Busway AL
+SWIL,Đèn hồ bơi
+SOC,Ổ cắm
+HOREL,CO ngang
+FLEXC,Nối mềm
+COML,Đèn Huỳnh Quang bóng Compact
+FOUN,Móng trụ đèn
+UPVC,Ống uPVC
+SWIT,Công tắc
+ISO,Isolator
+FVAS,Van phao
+TUBEL,Đèn Huỳnh Quang bóng dài
+HPL,Đèn cao áp
+CONT,Nối
+MSB,Tủ Điện chính
+FAN,Quạt giải nhiệt
+TAP,TAP_OFF UNIT
+VECEL,CO lên
+HOELT,Co lên
+DEN1,DEN 1
+CHVS,Van một chiều
+TP,Bơm chuyển
+HOOK,Móc áo
+BGG,Cầu chắn rác (Balloon Gutter Guards)
+PRT,Bình giữ áp
+HSP,Vòi xịt
+WH,Máy nước nóng
+GLV,Van cầu
+FDA,Phễu Thu sàn
+GAV,Van cổng
+FVA,Van phao
+PRV,Van giảm áp
+PHO,Hộp giấy
+PIPEI,Ống
+DWM,Máy rửa chén
+BAV,Van bi
+NOZI,Đầu phun tưới cây
+MIRT,Kệ Gương
+BUV,Van bướm
+CHV,Van một chiều
+HD,Máy sấy tay
+RD,Phễu thu nước mưa
+TAPI,Vòi tưới cây
+LSW,Công tắc mực nước
+SD,Hộp xà phòng
+TB,Thanh treo khăn
+SOM,Máy hút khói
+MIR,Gương
+SENI,Cảm biến mưa
+TANK,Bồn nước
+URV,Van xả bồn tiểu
+SHO,Kệ xà phòng
+SPRV,Cụm van giảm áp
+FOV,Van hút
+RVA,Van an toàn
+BLV,Van cân bằng
+RJO,Khớp nối mềm
+MOV,Van điện từ
+HAM,Búa nước chống va đập
+FLS,Công tắc dòng chảy
+AAV,Van xả khí
+YST,Y lọc
+PRS,Công tắc Áp suất
+FLG,Đồng hồ đo lưu lượng
+BAVD,Van bi
+PIPED,Ống
+TG,Đồng hồ nhiệt độ
+RJOD,Khớp nối mềm
+WYEP,Y
+WYES,Y
+FVAD,Van phao
+TREDD,Tê giảm
+TANKS,Bồn nước
+LSWI,Công tắc mực nước
+NIPD,Nipple
+COS,Thông tắc
+ELBS,Co
+SWP,Bơm hồ bơi
+PHC,Bộ điều chỉnh PH
+HEAT,Máy gia nhiệt
+WMI,Đồng hồ nước
+PGI,Đồng hồ áp suất
+YRES,Y giảm
+TEES,Tê
+STMH,Hố ga thoát nước mưa
+FVASW,Van phao
+PIPE,Ống
+YRED,Y giảm
+CO,Thông tắc
+CB,Tủ điều khiển bơm
+PRSS,Công tắc Áp suất
+SLE,Sleeve
+GAVI,Van cổng
+FLADD,Bích Lồng
+ELBD,Co
+TEED,Tê
+CHEMP,Bơm hóa chất
+WWP,Bơm nước thải
+LSWS,Công tắc mực nước
+ED,Bộ điện phân khử trùng
+FT,Xi phon
+FOVI,Van hút
+CHVD,Van một chiều
+BUSH,Cà rá
+UNIS,Rắc Co sống
+ABL,Máy thổi khí
+PIPSW,Ống
+SN,Đầu phun nước
+JP,Bơm phun áp lực
+CHVI,Van một chiều
+FVAI,Van phao
+RJOI,Khớp nối mềm
+AAVI,Van xả khí
+PHS,Đầu dò PH
+RBSTP,Giỏ lọc rác
+CHVSW,Van một chiều
+PGS,Đồng hồ áp suất
+IRTB,Hộp vòi tưới cây
+EC,Nút bít
+EC,Nút bít
+FLSI,Công tắc dòng chảy
+BB,Giá thể
+BAVSW,Van bi
+PG,Đồng hồ áp suất
+BAVI,Van bi
+NIPW,Nipple
+COUS,Nối 
+MHC,Nắp bể tự hoại
+PRTS,Bình giữ áp
+RJOSW,Khớp nối mềm
+IRRP,Bơm tưới cây
+MOVI,Van điện từ
+TEE,Tê
+REDD,Giảm
+NIPS,Nipple
+REDS,Giảm
+TAPK,Vòi rửa bếp
+TGS,Đồng hồ nhiệt độ
+VN,Đầu hút chân không
+TRED,Tê giảm
+COU,Nối 
+RM,Lưới chắn rác
+MUDP,Bơm bùn
+GAVD,Van cổng
+SLE,Sleeve
+UNIW,Rắc Co sống
+FLAW,Bích Lồng
+PRSI,Công tắc Áp suất
+FLA,Mặt bích
+UNID,Rắc Co sống
+FLAD,Mặt bích
+COUD,Nối 
+MH,Hố ga thoát nước
+TC,Nắp mương
+WMS,Đồng hồ nước
+GAVSW,Van cổng
+PRTI,Bình giữ áp
+REDU,Giảm
+MUDA,Máy khuấy bùn
+TANKI,Bồn nước
+YSTI,Y lọc
+ELBP,Co
+FLADS,Bích Lồng
+TREDS,Tê giảm
+FLAS,Mặt bích
+RB,Giỏ lọc rác
+PIPEW,Ổng
+LSSTP,Công tắc mực nước
+FOVS,Van hút
+FLSW,Công tắc dòng chảy
+FLGS,Đồng hồ đo lưu lượng
+FD,Floor drain
+KFD,Phễu thu sàn bếp
+BUVS,Van bướm
+YSTS,Y lọc
+SF,Bình lọc cát
+VC,Cầu thông hơi
+Y,Y
+YST,Y lọc
+GAV,Van cổng
+ACV,Van báo động
+PRF,Van an toàn
+ACV,Van báo động
+AVX,Bộ chống xoáy
+E45,Lơi
+CHV,Van một chiều
+FOV,Van hút
+FMT,Đồng hồ đo lưu lượng
+SOC,Nối 
+GAV,Van cổng
+GAVS,Van cổng kèm công tắc giám sát
+RJO,Khớp nối mềm
+FOV,Van hút
+PSW,Công tắc Áp suất
+LSW,Công tắc mực nước
+TNK,Bồn nước
+RECT,Tê giảm
+GAVS,Van cổng kèm công tắc giám sát
+BUV,Van bướm
+FVA,Van phao
+PSW,Công tắc Áp suất
+RAC,Rắc Co sống
+SGL,Kính xem lỏng
+PG,Đồng hồ áp suất
+P,Bơm
+LSW,Công tắc mực nước
+PG,Đồng hồ áp suất
+PRV,Van giảm áp
+PRV,Van giảm áp
+FVA,Van phao
+PRF,Van an toàn
+AAV,Van xả khí
+FLS,Công tắc dòng chảy
+BFL,Mặt bích mù
+COU,Coupling
+CAP,Nắp chụp
+YST,Y lọc
+GLV,Van cầu
+HAM,Búa nước
+REC,Giảm
+MOV,Van điện từ
+AAV,Van xả khí
+MOV,Van điện từ
+SGL,Kính xem lỏng
+PTNK,Bình giữ áp
+SLE,Sleeve
+BUV,Van bướm
+FLS,Công tắc dòng chảy
+E90,Co
+E90,Co
+RECY,Y giảm
+PIPE,Ống
+BAV,Van bi
+TEE,Tê
+OSY,Van cổng OS&Y
+AVX,Bộ chống xoáy
+P,Bơm
+BAV,Van bi
+SHD,Đầu phun sprinkler
+HAM,Búa nước
+E45,Lơi
+BUVS,Van bướm kèm công tắc giám sát
+FMT,Đồng hồ đo lưu lượng
+BUVS,Van bướm kèm công tắc giám sát
+TNK,Bồn nước
+TEE,Tê
+OSY,Van cổng OS&Y
+CHV,Van một chiều
+GLV,Van cầu
+RJO,Khớp nối mềm
+RECT,Tê giảm
+FL,Mặt bích
+NIP,Nối hai đầu ren ngoài
+PTNK,Bình giữ áp
+RECY,Y giảm
+COU,Coupling
+BFL,Mặt bích mù
+FL,Mặt bích
+RAC,Rắc Co sống
+Y,Y
+REC,Giảm
+SOC,Nối 
+CAP,Nắp chụp
+NIP,Nối hai đầu ren ngoài
+FHR,Cuộn vòi chữa cháy
+NOZ,Lăng phun
+FCA,Tủ chữa cháy
+LV,Van góc
+BUVS,Van bướm kèm công tắc giám sát
+AVX,Bộ chống xoáy
+FEX,Bình chữa cháy
+FDC,Họng tiếp nước
+NITO,Hệ chữa cháy N2
+SOV,Van điện từ_Shut off Valve
+E45,Lơi
+SIGNC,Cáp tín hiệu
+ITD,Đầu báo nhiệt gia tăng
+TEE,Tê
+DS,Cầu dao cách ly
+PM,Đồng hồ điện
+COU,Coupling
+CAB,Cáp
+CHV,Van một chiều
+PVAL,Van điều áp
+VAP,Bình hóa hơi
+BELL,Chuông báo cháy
+MCP,Nút nhấn khẩn cấp
+KITFF,Hệ chữa cháy bếp
+OSY,Van cổng OS&Y
+BAV,Van bi
+PRV,Van giảm áp
+FLS,Công tắc dòng chảy
+P,Bơm
+E45,Lơi
+Y,Y
+ACM,Máy nén khí
+HEX,Bộ trao đổi nhiệt
+VALVE,Van cổng
+CM,Module điều khiển
+MVSG,Tủ trung thế
+FCU,FCU
+HWH,Bánh xe hồi nhiệt
+PRF,Van an toàn
+YST,Y lọc
+P,Bơm
+PTNK,Bình giữ áp
+FOAM,Hệ chữa cháy foam
+BUVS,Van bướm kèm công tắc giám sát
+ACV,Van báo động
+TNK,Bồn nước
+HUMSEN,Cảm biến độ ẩm
+REMOCAP,Cáp điều khiển
+RELIV,Van an toàn
+GASB,Lò hơi vận hành gas
+SUP,Thanh giằng_giá đỡ
+AHU,AHU
+PAU,PAU
+GLV,Van cầu
+SHD,Đầu phun sprinkler
+AAV,Van xả khí
+HAM,Búa nước
+PSW,Công tắc Áp suất
+CAP,Nắp chụp
+SHD,Đầu phun sprinkler
+YST,Y lọc
+BFL,Mặt bích mù
+CAP,Nắp chụp
+MOVSEN,Cảm biến chuyển động
+PIPE,Ống
+HEATP,Bơm nước nóng
+HAS,Chuông kết hợp đèn báo cháy
+RCLO,Bộ đóng điện lặp lại_Recloser
+MH,Hố ga
+CHI,Chiller
+CTO,Tháp giải nhiệt
+AAV,Van xả khí
+LSW,Công tắc mực nước
+RELIV,Van an toàn
+POWC,Cáp nguồn
+TU,Biến áp đo lường_TU
+TI,Biến dòng đo lường_TI
+EW,Giếng khoan tiếp địa
+FVA,Van phao
+TFEX,Xe đẩy chữa cháy
+RECY,Y giảm
+FLS,Công tắc dòng chảy
+REC,Giảm
+CO2,Hệ chữa cháy CO2
+GAVS,Van cổng kèm công tắc giám sát
+HAM,Búa nước
+PTNK,Bình giữ áp
+GAV,Van cổng
+RECY,Y giảm
+PIPE,Ống dẫn khí
+PG,Đồng hồ áp suất
+TANKG,Bồn chứa gas
+RECT,Tê giảm
+PREV,Van giảm áp
+TEMSEN,Cảm biến nhiệt độ
+ER,Cọc tiếp địa
+LIGSEN,Cảm biến ánh sáng
+DRYT,Bình sấy
+BALLV,Van tay gạt
+GATEV,Van cổng
+IOND,Đầu báo khói ion
+FTD,Đầu báo nhiệt cố định
+BEAMD,Đầu báo khói beam
+FAN,Quạt
+PUM,Bơm 
+HPI,Heat pipe
+RAC,Máy lạnh 2 cục
+PIPE,Ống
+GAV,Van cổng
+BAV,Van bi
+CHV,Van một chiều
+Y,Y
+BUV,Van bướm
+GLV,Van cầu
+REC,Giảm
+FVAL,Van điều tiết lưu lượng
+LA,Bộ chống sét đường dây_lightning Arrester
+GIC,Ống bảo vệ GI
+BUV,Van bướm
+MOV,Van điện từ
+PRF,Van an toàn
+TEE,Tê
+FL,Mặt bích
+BALLV,Van tay gạt
+PREG,Đồng hồ áp suất
+MM,Module giám sát
+EC,Hóa chất giảm điện trở đất
+FPR,Bảng tiêu lệnh + nội quy PCCC
+PRV,Van giảm áp
+SGL,Kính xem lỏng
+FM200,Hệ chữa cháy FM200
+RJO,Khớp nối mềm
+PSW,Công tắc Áp suất
+AVX,Bộ chống xoáy
+COU,Coupling
+PRESSSEN,Cảm biến áp suất
+SMOKSEN,Cảm biến khói
+FLEXP,Ống gas mềm
+CONC,Cáp điều khiển
+LPFCO,Dao cắt tải có cầu chì
+MOV,Van điện từ
+GAVS,Van cổng kèm công tắc giám sát
+LSW,Công tắc mực nước
+PG,Đồng hồ áp suất
+RECT,Tê giảm
+FL,Mặt bích
+SOC,Nối 
+RAC,Rắc Co sống
+NIP,Nối hai đầu ren ngoài
+E90,Co
+DLV,Van xả tràn
+SIGCAP,Cáp tín hiệu
+PT,Bình tích áp
+GASE,Lò hơi vận hành điện
+WGD,Đầu dò gas gắn tường
+FACP,Tủ báo cháy trung tâm
+AFEX,Bình chữa cháy tự động
+ACV,Van báo động
+FMT,Đồng hồ đo lưu lượng
+FOV,Van hút
+SGL,Kính xem lỏng
+SOC,Nối 
+NIP,Nối hai đầu ren ngoài
+INS,Cách nhiệt
+CGD,Đầu dò gas gắn trần
+MVP,Trụ điện
+COS,Đầu Cos
+TRUNK,Máng điện
+ECAB,Cáp tiếp địa
+OSY,Van cổng OS&Y
+E90,Co
+FVA,Van phao
+FMT,Đồng hồ đo lưu lượng
+WATSEN,Cảm biến mực nước
+DDCCATA,DDC
+GATEV,Van cổng
+PHR,Trụ chữa cháy
+PIPE,Ống
+GCP,Tủ điều khiển đầu dò gas
+MIMIC,Tủ hiển thị phụ
+FCO,Cầu chì tự rơi
+FOV,Van hút
+RJO,Khớp nối mềm
+TNK,Bồn nước
+BFL,Mặt bích mù
+RAC,Rắc Co sống
+COSEN,Cảm biến CO
+PIPEG,Ống gas
+BALLV,Van tay gạt
+SIGC,Cáp tín hiệu
+PHOD,Đầu báo khói quang
+COND,Ống luồn dây điện
+TRANS,Máy biến áp
+CADW,Mối hàn hóa nhiệt
+TB,Hộp kiểm tra
+LCP,Bộ điều khiển cục bộ
+WYE,Chạc 
+REF,Bộ chia
+CCP,Bộ điều khiển trung tâm
+DUK,Ống gió thường
+FLE,Ống gió mềm không cách nhiệt
+FRD,Ống gió chống cháy
+HEX,Bộ trao đổi nhiệt
+MUL,Máy lạnh Multi
+KAD,Ống gió bếp
+ELB,Co
+CAV,Nối mềm
+YVA,Chạc kèm cánh hướng dòng
+SHB,Gót giày
+VRV,Máy lạnh VRV
+DIN,Ống gió tiêu âm
+FIN,Ống gió mềm kèm cách nhiệt
+ATT,Bộ tiêu âm
+DEX,Ống gió kèm cách nhiệt
+SD,Cảm biến khói
+CO2D,Cảm biến CO2
+COD,Cảm biến CO
+PNB,Hộp gió
+DPS,Cảm biến chênh áp
+SAG,Miệng gió cấp SAG
+ACD,Cửa thăm
+Sle,Sleeve
+RAG,Miệng gió hồi RAG
+EVA,Co kèm cánh hướng dòng
+EAG,Miệng gió thải EAG
+SEAG,Miệng gió hút khói SEAG
+PAG,Miệng gió tạo áp PAG
+RED,Giảm
+FAL,Cửa gió cấp FAL
+IS,Lưới chắn côn trùng
+EAL,Cửa gió thải EAL
+VAV,VAV box
+FILT,Lọc
+VCD,Van chỉnh gió VCD
+FD,Van ngăn cháy FD
+BUV,Van bướm
+MD,Van chỉnh gió bằng động cơ MD
+BAV,Van bi
+FOV,Van hút
+CHV,Van một chiều
+GAV,Van cổng
+MFD,Van ngăn cháy bằng động cơ MFD
+NRD,Van gió một chiều NRD
+PRD,Van xả áp PRD
+OBD,Van chỉnh gió OBD
+RVA,Van an toàn
+MOV,Van điện từ
+COP,Ống gas
+FVA,Van phao
+FLG,Đồng hồ đo lưu lượng
+HAM,Búa nước chống va đập
+BLV,Van cân bằng
+GLV,Van cầu
+CDP,Ống nước ngưng
+RJO,Khớp nối mềm
+AAV,Van xả khí
+PRS,Công tắc Áp suất
+PG,Đồng hồ áp suất
+CWP,Ống nước giải nhiệt
+TG,Đồng hồ nhiệt độ
+CHW,Ống nước lạnh
+CHWI,Ống nước lạnh kèm cách nhiệt
+PRV,Van giảm áp
+CDPI,Ống nước ngưng kèm cách nhiệt
+FLS,Công tắc dòng chảy
+ICHW,Cách nhiệt ống nước lạnh
+YST,Y lọc
+TP,Test point
+E90,Co
+cab,Cable
+COPI,Ống gas kèm cách nhiệt
+BFL,Mặt bích mù
+SOC,Nối 
+CAP,Nắp chụp
+SLE,Sleeve
+RECT,Tê giảm
+cdt,Conduit
+TEE,Tê
+PSAD,Ống gió tạo áp cầu thang
+RECY,Y giảm
+REC,Giảm
+CP,Tủ điều khiển
+SLC,Silencer
+CO,Thông tắc
+FL,Mặt bích
+ICDP,Cách nhiệt ống nước ngưng
+ICOP,Cách nhiệt ống gas
+E45,Lơi
+COU,Coupling
+DB,Tủ điện
+Y,Y
+NIP,Nối hai đầu ren ngoài
+TRK,Trunking
+PCA,Cáp nguồn
+SLE1,Sleeve
+SEAD,Ống gió hút khói hành lang
+RAC,Rắc Co sống
+CCA,Cáp điều khiển
